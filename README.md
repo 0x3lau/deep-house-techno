@@ -33,7 +33,7 @@ We’d love to hear what you create! 🚀
 
 ## 🔧 Setup Instructions
 
-### Direct Download: [HERE](https://github.com/0x3lau/deep-house-techno/archive/refs/heads/main.zip)
+### Direct Download: [HERE](https://www.dropbox.com/scl/fo/tbrhtj7ofti0a5vi1cgwj/AGEGQOqXHsBRwGnJZ8pFw8w?rlkey=qucscguwofgy81rykavijkyt3&dl=0)
 
 ### Cloning and Downloading with Git (Including Large Files) 
 
