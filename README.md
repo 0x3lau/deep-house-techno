@@ -18,19 +18,19 @@ This repository contains all the original stems, MIDI files, and any other asset
 
 Since all the tracks are frozen in the project file, there should not be audio playback issues related to missing plugins. In case you want to unfreeze any of the tracks, here is a list of primary plugins used to make human edits to the original AI output
 
-UAD API 2500
-UAD API 560
-UAD Empirical Labs FATSO Jr
-UAD Pultec HLF-3C
-UAD Precision Channel Strip
-Fab Filter Timeless 2
-Fab Filter Saturn 2
-Fab Filter Pro-L 2
-Fab Filter Pro-Q 3
-Reveal Sound Spire 1.5
-Xfer LFO Tool
-Xfer OTT
-Kazrog Kclip 3
+- UAD API 2500
+- UAD API 560 
+- UAD Empirical Labs FATSO Jr
+- UAD Pultec HLF-3C
+- UAD Precision Channel Strip
+- Fab Filter Timeless 2
+- Fab Filter Saturn 2
+- Fab Filter Pro-L 2
+- Fab Filter Pro-Q 3
+- Reveal Sound Spire 1.5
+- Xfer LFO Tool
+- Xfer OTT
+- Kazrog Kclip 3
 
 ## 📜 License
 
