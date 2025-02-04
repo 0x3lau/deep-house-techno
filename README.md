@@ -68,7 +68,7 @@ We’d love to hear what you create! 🚀
 
 3. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/0x3lau/deep-house-techno.git
    ```
 
 4. **Pull Large Files**  
